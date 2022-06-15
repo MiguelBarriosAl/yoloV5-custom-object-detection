@@ -9,9 +9,7 @@ Start training your model without being an expert. Students love YOLOv5 for its 
 
 Export and deploy your YOLOv5 model with just 1 line of code. There are also loads of quickstart guides and tutorials available to get your model where it needs to be.
 
-
 # Steps for train on custom data
-
 
 1. Clone !git clone https://github.com/ultralytics/yolov5
 
