@@ -1,5 +1,6 @@
 # YoloV5_custom_object_detection
-![](/home/barrios/Imágenes/yolo.png)
+
+![img_2.png](img_2.png)
 
 # Introduction
 
@@ -20,8 +21,7 @@ Export and deploy your YOLOv5 model with just 1 line of code. There are also loa
    4. data/labels/train = 10% labels coordinates
 
 
-   ![](/home/barrios/Imágenes/treeyolo.png)
-
+   ![img_3.png](img_3.png)
 
 3. Labels coordinate: https://www.makesense.ai/
 4. Create custom.yml file for the next information, and save in path = yolov5/data
