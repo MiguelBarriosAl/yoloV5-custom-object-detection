@@ -1,4 +1,4 @@
-# YoloV5_custom_object_detection
+# YoloV5 Custom Object Detection
 
 ![img_2.png](img_2.png)
 
